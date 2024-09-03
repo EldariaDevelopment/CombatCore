@@ -1,0 +1,7 @@
+name: CombatCore
+version: '1.0-SNAPSHOT'
+main: e.combatCore.CombatCore
+api-version: '1.21'
+authors: [ Makenna ]
+description: Literally just a CombatCore
+website: https://github.com/EldariaDevelopment
